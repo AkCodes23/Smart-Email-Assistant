@@ -42,8 +42,3 @@ The application follows a clear, step-by-step process to manage your emails:
 * **Dependencies**: `google-api-python-client`, `google-auth-oauthlib`, `groq`, `python-dotenv`, `pandas`
 
 ---
-
-
-```bash
-git clone <your-repository-link>
-cd smart-email-assistant
